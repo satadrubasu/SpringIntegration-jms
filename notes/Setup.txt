@@ -1,0 +1,6 @@
+1. install activeMq:
+ http://activemq.apache.org/activemq-5152-release.html
+2. Run the 64 bit - startup.bat and observe the ports used , 
+  configure the same in spring
+  
+3. 
